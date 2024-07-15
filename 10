@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Images</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Responsive Images Example</h1>
+    </header>
+    <section class="image-gallery">
+        <figure>
+            <img src="image-small.jpg" alt="Small Image">
+            <figcaption>Small Image</figcaption>
+        </figure>
+        <figure>
+            <img src="image-medium.jpg" alt="Medium Image">
+            <figcaption>Medium Image</figcaption>
+        </figure>
+        <figure>
+            <img src="image-large.jpg" alt="Large Image">
+            <figcaption>Large Image</figcaption>
+        </figure>
+    </section>
+</body>
+</html>
